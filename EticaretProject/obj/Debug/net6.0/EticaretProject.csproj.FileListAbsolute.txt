@@ -16,9 +16,7 @@ C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\Eti
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\EticaretProject.RazorAssemblyInfo.cs
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\scopedcss\bundle\EticaretProject.styles.css
-C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\scopedcss\projectbundle\EticaretProject.bundle.scp.css
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\EticaretProject.dll
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\refint\EticaretProject.dll
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\EticaretProject.pdb
@@ -271,3 +269,5 @@ C:\Users\aktas\source\repos\EticaretProject\EticaretProject\bin\Debug\net6.0\run
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\EticaretProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\EticaretProject.csproj.CopyComplete
+C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\scopedcss\projectbundle\EticaretProject.bundle.scp.css
+C:\Users\aktas\source\repos\EticaretProject\EticaretProject\obj\Debug\net6.0\scopedcss\Views\Shared\_UserLayout.cshtml.rz.scp.css
