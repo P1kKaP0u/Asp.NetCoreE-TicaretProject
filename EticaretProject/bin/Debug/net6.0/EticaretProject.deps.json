@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "EticaretProject/1.0.0": {
         "dependencies": {
+          "BusinessLayer": "1.0.0",
+          "DataAccessLayer": "1.0.0",
+          "EntityLayer": "1.0.0",
           "FluentValidation": "11.2.1",
           "FluentValidation.AspNetCore": "11.2.1",
           "Microsoft.AspNetCore.Identity": "2.2.0",
@@ -2459,6 +2462,38 @@
             "fileVersion": "8.4.3.0"
           }
         }
+      },
+      "BusinessLayer/1.0.0": {
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "EntityLayer": "1.0.0",
+          "FluentValidation": "11.2.1",
+          "FluentValidation.AspNetCore": "11.2.1"
+        },
+        "runtime": {
+          "BusinessLayer.dll": {}
+        }
+      },
+      "DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "EntityLayer": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
+        "runtime": {
+          "DataAccessLayer.dll": {}
+        }
+      },
+      "EntityLayer/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8"
+        },
+        "runtime": {
+          "EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -3888,6 +3923,21 @@
       "sha512": "sha512-f1M+6o0AGSUGBuIRiXl9PGfoFbymw8uKjcuA1pJb2XkfginndZg1UR9zgppXW0GMLWCMzCoD5uVGD3SSywSimQ==",
       "path": "x.pagedlist.mvc.core/8.4.3",
       "hashPath": "x.pagedlist.mvc.core.8.4.3.nupkg.sha512"
+    },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

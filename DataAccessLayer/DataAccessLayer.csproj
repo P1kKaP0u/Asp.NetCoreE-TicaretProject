@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Concrete\" />
-    <Folder Include="EntityFramework\" />
     <Folder Include="Migrations\" />
     <Folder Include="Context\" />
     <Folder Include="Repositories\" />
@@ -27,6 +26,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
   </ItemGroup>
 
 </Project>

@@ -10,3 +10,8 @@ C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\obj\Debug\net6.0\Busin
 C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
 C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
 C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\aktas\source\repos\EticaretProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete

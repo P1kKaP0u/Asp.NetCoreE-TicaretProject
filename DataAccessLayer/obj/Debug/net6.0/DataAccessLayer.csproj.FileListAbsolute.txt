@@ -12,3 +12,6 @@ C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\obj\Debug\net6.0\ref
 C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\aktas\source\repos\EticaretProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
